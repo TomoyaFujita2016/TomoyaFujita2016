@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/TomoyaFujita2016/TomoyaFujita2016/master/profile-summary-card-output/ocean_dark/4-productive-time.svg)
-```
-
-    
