@@ -52,13 +52,3 @@
 ```
 
     
-
----
-
-![](./4-productive-time.svg)
-
-```
-![](https://raw.githubusercontent.com/TomoyaFujita2016/TomoyaFujita2016/master/profile-summary-card-output/discord_old_blurple/4-productive-time.svg)
-```
-
-    
